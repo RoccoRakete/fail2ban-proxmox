@@ -1,4 +1,4 @@
-###[Documentation](https://wiki.ubuntuusers.de/fail2ban/)
+### [Documentation](https://wiki.ubuntuusers.de/fail2ban/)
 
 `apt update`
 `apt install fail2ban`
